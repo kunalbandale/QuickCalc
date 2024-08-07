@@ -1,8 +1,11 @@
 # QuickCalc - A Simple Calculator 
 
+   
 Welcome to QuickCalc, a calculator app designed to provide a sleek and efficient calculation experience. This app is open-source and available on GitHub. It is built using Java for Android.
 
-![App Icon]()
+![App Icon](images/app-icon.png)
+
+
 
 ## Features
 
@@ -20,7 +23,7 @@ Welcome to QuickCalc, a calculator app designed to provide a sleek and efficient
 
 ## Screenshots
 
-![](https://photos.app.goo.gl/WNchoLPQD8yMzgP3A)
+![](images/screenshot.png)
 
 ## Installation
 
